@@ -1,0 +1,12 @@
+.pad {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+.resume-top {
+    height: 20px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+.first p {
+    word-wrap: break-word;
+}
